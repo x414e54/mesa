@@ -8277,6 +8277,8 @@
 
 <xi:include href="ARB_get_program_binary.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
+<xi:include href="ARB_separate_shader_objects.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
 <xi:include href="ARB_debug_output.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
 
 <xi:include href="ARB_robustness.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>

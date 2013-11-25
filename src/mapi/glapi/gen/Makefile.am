@@ -111,6 +111,7 @@ API_XML = \
 	ARB_sample_shading.xml \
 	ARB_sampler_objects.xml \
 	ARB_seamless_cube_map.xml \
+	ARB_separate_shader_objects.xml \
 	ARB_shader_atomic_counters.xml \
 	ARB_sync.xml \
 	ARB_texture_buffer_object.xml \
